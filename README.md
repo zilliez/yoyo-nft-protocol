@@ -1,4 +1,3 @@
-# Yoyo NFT: Minted Memory Protocol
 # Yoyo NFT: Minted Memory Protocol – Sovereign Artefact Earn from Real Life
 
 **NFTs aren’t hype. They’re memory. They’re ‘proof I owned this.’**
